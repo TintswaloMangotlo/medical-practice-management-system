@@ -15,7 +15,7 @@ public class Application {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Welcome to Medical Practice Management System");
+        System.out.println("Welcome to Medical Practice Management System. The most awesome application by Tintswalo Mangotlo!");
     }
     
 }
